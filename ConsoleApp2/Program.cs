@@ -11,5 +11,6 @@ namespace ConsoleApp2
         static void Main(string[] args)
         {
         }
+        public void test2() { }
     }
 }
