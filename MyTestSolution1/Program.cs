@@ -8,6 +8,7 @@ namespace MyTestSolution1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("For testing");
+            Console.WriteLine("For testing1");
         }
     }
 }
