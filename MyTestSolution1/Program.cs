@@ -6,7 +6,7 @@ namespace MyTestSolution1
     {
         static void Main(string[] args)
         {
-            int a = 2;
+            int a = 3;
             Console.WriteLine("Hello World!");
             Console.WriteLine("tets");
         }
