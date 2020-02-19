@@ -7,6 +7,7 @@ namespace MyTestSolution1
         static void Main(string[] args)
         {
             Console.WriteLine("For test Branch1");
+
         }
     }
 }
