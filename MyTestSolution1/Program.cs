@@ -6,9 +6,7 @@ namespace MyTestSolution1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("For testing");
-            Console.WriteLine("For testing1");
+            Console.WriteLine("For test Branch1");
         }
     }
 }
